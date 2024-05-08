@@ -9,12 +9,12 @@ Forecasting is a critical aspect of decision-making in various industries, rangi
 ## Project Categories 
 
 The projects in this repository cover a wide range of forecasting applications, including but not limited to:
-
-1. **Sales Forecasting in E-commerce**: Predicting future sales trends and demand for products in online retail platforms.
-2. **Demand Forecasting**: Forecasting customer demand for products or services to optimize inventory management and supply chain operations.
-3. **Energy Consumption Forecasting**: Predicting energy usage patterns to optimize production, distribution, and consumption in the energy sector.
-4. **Financial Forecasting**: Predicting stock prices, market trends, and financial metrics using historical market data.
-5. **Healthcare Forecasting**: Forecasting patient admissions, disease outbreaks, and resource allocation in healthcare facilities.
+1. **Time Series Forecasting**
+3. **Sales Forecasting in E-commerce**: Predicting future sales trends and demand for products in online retail platforms.
+4. **Demand Forecasting**: Forecasting customer demand for products or services to optimize inventory management and supply chain operations.
+5. **Energy Consumption Forecasting**: Predicting energy usage patterns to optimize production, distribution, and consumption in the energy sector.
+6. **Financial Forecasting**: Predicting stock prices, market trends, and financial metrics using historical market data.
+7. **Healthcare Forecasting**: Forecasting patient admissions, disease outbreaks, and resource allocation in healthcare facilities.
 
 ## Get Started 
 
